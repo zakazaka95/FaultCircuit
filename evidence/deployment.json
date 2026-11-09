@@ -1,0 +1,29 @@
+{
+  "name": "faultcircuit",
+  "address": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+  "txHash": "0xedede297768463452026f8b7d2bae247f4013063191375a1b508fa93f23fc32b",
+  "chainId": 61997,
+  "rpc": "https://studio-dev.genlayer.com/api",
+  "account": "0x20E5812253bbf6aBfBbe3edbb13008AB7a3D68B5",
+  "explorerUrl": "https://explorer-studio-dev.genlayer.com/address/0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+  "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+  "sourceFile": "FaultCircuit.py",
+  "deployedAt": "2026-11-09T23:49:33.678Z",
+  "leaderOnly": false,
+  "value": "0",
+  "executionVerified": true,
+  "sourceComparison": "Complete source matches after CRLF/LF and edge-whitespace normalization",
+  "deployedSourceNormalizedSha256": "37257c7f05956c52b84adc632e18eec13363e68f808c73503bb21f3facccad64",
+  "stats": {
+    "admitted_runs": 3,
+    "circuits": 1,
+    "classified_runs": 3,
+    "contract_version": "1.0.0",
+    "max_attempts": 3,
+    "max_normal_runs": 6,
+    "max_prompt_chars": 18000,
+    "max_prompt_utf8_bytes": 24000,
+    "max_reporters": 8,
+    "receipt_schema": "faultcircuit-v1"
+  }
+}

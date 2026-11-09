@@ -1,0 +1,2198 @@
+{
+  "name": "faultcircuit",
+  "chainId": 61997,
+  "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+  "contractUrl": "https://explorer-studio-dev.genlayer.com/address/0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+  "deploymentTxHash": "0xedede297768463452026f8b7d2bae247f4013063191375a1b508fa93f23fc32b",
+  "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+  "completeDeployedSourceMatches": true,
+  "syntheticInputsOnly": true,
+  "transactionValue": "0",
+  "normalConsensus": true,
+  "finalizations": [
+    {
+      "hash": "0xedede297768463452026f8b7d2bae247f4013063191375a1b508fa93f23fc32b",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0xedede297768463452026f8b7d2bae247f4013063191375a1b508fa93f23fc32b"
+    },
+    {
+      "hash": "0x7b7bc9de22000de35168c7f52d25138710279b95043fa51d9c4b4ed50d49435f",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0x7b7bc9de22000de35168c7f52d25138710279b95043fa51d9c4b4ed50d49435f"
+    },
+    {
+      "hash": "0x2851e5063dd438264d86147c819b41ec2da4ba0e0720e5cdec48391cd09e4225",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0x2851e5063dd438264d86147c819b41ec2da4ba0e0720e5cdec48391cd09e4225"
+    },
+    {
+      "hash": "0xa7d5f859ea976655507ce941cb9345265f4b52ccf0e5c4d5fc1a478e2941f769",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0xa7d5f859ea976655507ce941cb9345265f4b52ccf0e5c4d5fc1a478e2941f769"
+    },
+    {
+      "hash": "0x5de81b0da02d66286798620c26846612967f14ab4f8e54425748f86570da0288",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0x5de81b0da02d66286798620c26846612967f14ab4f8e54425748f86570da0288"
+    },
+    {
+      "hash": "0x02a0fec0675d0b5886535657c8ed2d42e284131a7387f316d053a846ae0dccbf",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0x02a0fec0675d0b5886535657c8ed2d42e284131a7387f316d053a846ae0dccbf"
+    },
+    {
+      "hash": "0x2972d49a2cc88f5c8f0273ca43b7215b0b63a29636339fc36b149af149a6cfda",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0x2972d49a2cc88f5c8f0273ca43b7215b0b63a29636339fc36b149af149a6cfda"
+    },
+    {
+      "hash": "0x9936ed7ac9415115d4a0c7365305d861998457b8eb3cc2e2e8cbc8568a326d7f",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0x9936ed7ac9415115d4a0c7365305d861998457b8eb3cc2e2e8cbc8568a326d7f"
+    },
+    {
+      "hash": "0x8423db1c7fc161cbb7a44fc7254fdd188fa192cc5d54919df28f8e431bad6f3c",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0x8423db1c7fc161cbb7a44fc7254fdd188fa192cc5d54919df28f8e431bad6f3c"
+    },
+    {
+      "hash": "0xd963e85d9912f6f3eb676439dbfaa71f5be3a3a6f172b497a708a844ad130b2d",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0xd963e85d9912f6f3eb676439dbfaa71f5be3a3a6f172b497a708a844ad130b2d"
+    },
+    {
+      "hash": "0xa10e0ba92ae02eb059dc277e89a7fc54c283b78e6431efa92b76adb50f4c635a",
+      "successful": true,
+      "status": "FINALIZED",
+      "explorerUrl": "https://explorer-studio-dev.genlayer.com/tx/0xa10e0ba92ae02eb059dc277e89a7fc54c283b78e6431efa92b76adb50f4c635a"
+    }
+  ],
+  "steps": [
+    {
+      "stage": "circuit-open",
+      "method": "open_circuit",
+      "operationHash": "a7680ed1860cad1e0a613348dfcaf006264ce0c462937f76a41690de165435c3",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0x7b7bc9de22000de35168c7f52d25138710279b95043fa51d9c4b4ed50d49435f",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0x7b7bc9de22000de35168c7f52d25138710279b95043fa51d9c4b4ed50d49435f",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:51:34.803Z",
+      "observation": {
+        "effective": {
+          "backoff_level": 0,
+          "created_at": 1794268286,
+          "fault_events": [],
+          "generation": 0,
+          "last_observed_at": 1794268294,
+          "normal_ids": [],
+          "open_until": 0,
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "probe_id": -1,
+          "retired_at": 0,
+          "revision": 1,
+          "spec": {
+            "base_cooldown_seconds": 30,
+            "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+            "component": "CSV worker",
+            "id": 0,
+            "max_cooldown_seconds": 240,
+            "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+            "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+            "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+            "reporters": [
+              "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            ],
+            "run_timeout_seconds": 1800,
+            "threshold": 2,
+            "title": "Synthetic CSV worker circuit",
+            "window_seconds": 600
+          },
+          "state": "CLOSED"
+        },
+        "normal_admission_allowed": true,
+        "pending_expiries": [],
+        "probe_admission_allowed": false,
+        "record": {
+          "backoff_level": 0,
+          "created_at": 1794268286,
+          "fault_events": [],
+          "generation": 0,
+          "last_observed_at": 1794268286,
+          "normal_ids": [],
+          "open_until": 0,
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "probe_id": -1,
+          "retired_at": 0,
+          "revision": 0,
+          "spec": {
+            "base_cooldown_seconds": 30,
+            "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+            "component": "CSV worker",
+            "id": 0,
+            "max_cooldown_seconds": 240,
+            "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+            "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+            "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+            "reporters": [
+              "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            ],
+            "run_timeout_seconds": 1800,
+            "threshold": 2,
+            "title": "Synthetic CSV worker circuit",
+            "window_seconds": 600
+          },
+          "state": "CLOSED"
+        }
+      }
+    },
+    {
+      "stage": "fault-run-1-admit",
+      "method": "admit_run",
+      "operationHash": "8b334bf879e5650f87c4016a95d9a68fcf320e03242a0354e3e33d49be03f3ef",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0x2851e5063dd438264d86147c819b41ec2da4ba0e0720e5cdec48391cd09e4225",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0x2851e5063dd438264d86147c819b41ec2da4ba0e0720e5cdec48391cd09e4225",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:51:43.056Z",
+      "observation": {
+        "effective_status": "ADMITTED",
+        "record": {
+          "attempts": 0,
+          "locked": {
+            "admitted_at": 1794268296,
+            "circuit_id": 0,
+            "deadline": 1794270096,
+            "generation": 0,
+            "id": 0,
+            "kind": "NORMAL",
+            "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          },
+          "outcome": "",
+          "receipt": null,
+          "receipt_hash": "",
+          "report": null,
+          "report_hash": "",
+          "run_hash": "69c19305d01c7193c6505bde9d621d05baac8922c13f14562ad4bba1419253a9",
+          "settled_at": 0,
+          "status": "ADMITTED",
+          "submitted_at": 0
+        }
+      }
+    },
+    {
+      "stage": "fault-run-1-report",
+      "method": "submit_report",
+      "operationHash": "69ca840184f44129899a0324c67f022dad8f6c1306cf1e89535540153533b81b",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0xa7d5f859ea976655507ce941cb9345265f4b52ccf0e5c4d5fc1a478e2941f769",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0xa7d5f859ea976655507ce941cb9345265f4b52ccf0e5c4d5fc1a478e2941f769",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:51:55.268Z",
+      "observation": {
+        "effective_status": "REPORTED",
+        "record": {
+          "attempts": 0,
+          "locked": {
+            "admitted_at": 1794268296,
+            "circuit_id": 0,
+            "deadline": 1794270096,
+            "generation": 0,
+            "id": 0,
+            "kind": "NORMAL",
+            "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          },
+          "outcome": "",
+          "receipt": null,
+          "receipt_hash": "",
+          "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+          "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+          "run_hash": "69c19305d01c7193c6505bde9d621d05baac8922c13f14562ad4bba1419253a9",
+          "settled_at": 0,
+          "status": "REPORTED",
+          "submitted_at": 1794268304
+        }
+      }
+    },
+    {
+      "stage": "fault-run-1-assess",
+      "method": "assess_run",
+      "operationHash": "b58f5727ca2626a2a382ca319b5d8a3a76f10fd9dd357e2c7d74b20575613ba0",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0x5de81b0da02d66286798620c26846612967f14ab4f8e54425748f86570da0288",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0x5de81b0da02d66286798620c26846612967f14ab4f8e54425748f86570da0288",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:55:06.711Z",
+      "observation": {
+        "run": {
+          "effective_status": "SETTLED",
+          "record": {
+            "attempts": 1,
+            "locked": {
+              "admitted_at": 1794268296,
+              "circuit_id": 0,
+              "deadline": 1794270096,
+              "generation": 0,
+              "id": 0,
+              "kind": "NORMAL",
+              "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            },
+            "outcome": "COMPONENT_FAULT",
+            "receipt": {
+              "assessed_at": 1794268317,
+              "attempt": 1,
+              "circuit_id": 0,
+              "effect": {
+                "closed": false,
+                "fault_counted": true,
+                "historical_only": false,
+                "opened": false
+              },
+              "input": {
+                "policy": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run": {
+                  "admitted_at": 1794268296,
+                  "circuit_id": 0,
+                  "deadline": 1794270096,
+                  "generation": 0,
+                  "id": 0,
+                  "kind": "NORMAL",
+                  "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+                  "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                  "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                },
+                "submitted_at": 1794268304
+              },
+              "inspection": {
+                "prompt_chars": 3389,
+                "prompt_sha256": "8a1a27fa78f6ac8d04e2979c803f308fefa1c8f3deaea05908d7c4f1fde996f4",
+                "prompt_truncated": false,
+                "prompt_utf8_bytes": 3389,
+                "semantic_complete": true
+              },
+              "maintenance": [],
+              "outcome": "COMPONENT_FAULT",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "run_hash": "69c19305d01c7193c6505bde9d621d05baac8922c13f14562ad4bba1419253a9",
+              "run_id": 0,
+              "run_status": "SETTLED",
+              "schema": "faultcircuit-v1",
+              "state_after": {
+                "backoff_level": 0,
+                "created_at": 1794268286,
+                "fault_events": [
+                  {
+                    "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                    "run_id": 0,
+                    "settled_at": 1794268317
+                  }
+                ],
+                "generation": 0,
+                "last_observed_at": 1794268317,
+                "normal_ids": [],
+                "open_until": 0,
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "probe_id": -1,
+                "retired_at": 0,
+                "revision": 6,
+                "spec": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "state": "CLOSED"
+              },
+              "state_before": {
+                "backoff_level": 0,
+                "created_at": 1794268286,
+                "fault_events": [],
+                "generation": 0,
+                "last_observed_at": 1794268317,
+                "normal_ids": [
+                  0
+                ],
+                "open_until": 0,
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "probe_id": -1,
+                "retired_at": 0,
+                "revision": 5,
+                "spec": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "state": "CLOSED"
+              },
+              "terminal": true
+            },
+            "receipt_hash": "1ae4e7721e1c2d1c49cf3b7ef81aa21ee2fb6d2ba6d81153ef903a6bde25f56e",
+            "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+            "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+            "run_hash": "69c19305d01c7193c6505bde9d621d05baac8922c13f14562ad4bba1419253a9",
+            "settled_at": 1794268317,
+            "status": "SETTLED",
+            "submitted_at": 1794268304
+          }
+        },
+        "circuit": {
+          "effective": {
+            "backoff_level": 0,
+            "created_at": 1794268286,
+            "fault_events": [
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 0,
+                "settled_at": 1794268317
+              }
+            ],
+            "generation": 0,
+            "last_observed_at": 1794268507,
+            "normal_ids": [],
+            "open_until": 0,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": -1,
+            "retired_at": 0,
+            "revision": 7,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "CLOSED"
+          },
+          "normal_admission_allowed": true,
+          "pending_expiries": [],
+          "probe_admission_allowed": false,
+          "record": {
+            "backoff_level": 0,
+            "created_at": 1794268286,
+            "fault_events": [
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 0,
+                "settled_at": 1794268317
+              }
+            ],
+            "generation": 0,
+            "last_observed_at": 1794268317,
+            "normal_ids": [],
+            "open_until": 0,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": -1,
+            "retired_at": 0,
+            "revision": 6,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "CLOSED"
+          }
+        }
+      }
+    },
+    {
+      "stage": "fault-run-2-admit",
+      "method": "admit_run",
+      "operationHash": "8b334bf879e5650f87c4016a95d9a68fcf320e03242a0354e3e33d49be03f3ef",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0x02a0fec0675d0b5886535657c8ed2d42e284131a7387f316d053a846ae0dccbf",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0x02a0fec0675d0b5886535657c8ed2d42e284131a7387f316d053a846ae0dccbf",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:55:16.395Z",
+      "observation": {
+        "effective_status": "ADMITTED",
+        "record": {
+          "attempts": 0,
+          "locked": {
+            "admitted_at": 1794268508,
+            "circuit_id": 0,
+            "deadline": 1794270308,
+            "generation": 0,
+            "id": 1,
+            "kind": "NORMAL",
+            "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          },
+          "outcome": "",
+          "receipt": null,
+          "receipt_hash": "",
+          "report": null,
+          "report_hash": "",
+          "run_hash": "046d1a247ba61227541bf4750d9df81df17f7d0973e0bdc5d012342a6334157a",
+          "settled_at": 0,
+          "status": "ADMITTED",
+          "submitted_at": 0
+        }
+      }
+    },
+    {
+      "stage": "fault-run-2-report",
+      "method": "submit_report",
+      "operationHash": "83ec15a4085cb3140eabba0c70a5061aa89fe390f6949d5237fa7b7657ec4dd7",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0x2972d49a2cc88f5c8f0273ca43b7215b0b63a29636339fc36b149af149a6cfda",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0x2972d49a2cc88f5c8f0273ca43b7215b0b63a29636339fc36b149af149a6cfda",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:55:28.206Z",
+      "observation": {
+        "effective_status": "REPORTED",
+        "record": {
+          "attempts": 0,
+          "locked": {
+            "admitted_at": 1794268508,
+            "circuit_id": 0,
+            "deadline": 1794270308,
+            "generation": 0,
+            "id": 1,
+            "kind": "NORMAL",
+            "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          },
+          "outcome": "",
+          "receipt": null,
+          "receipt_hash": "",
+          "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+          "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+          "run_hash": "046d1a247ba61227541bf4750d9df81df17f7d0973e0bdc5d012342a6334157a",
+          "settled_at": 0,
+          "status": "REPORTED",
+          "submitted_at": 1794268518
+        }
+      }
+    },
+    {
+      "stage": "fault-run-2-assess",
+      "method": "assess_run",
+      "operationHash": "4486f34e3356c8e85a4238432777d5319dab0c6ff8aa8b4c5f0b2c8cd1ccf5d0",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0x9936ed7ac9415115d4a0c7365305d861998457b8eb3cc2e2e8cbc8568a326d7f",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0x9936ed7ac9415115d4a0c7365305d861998457b8eb3cc2e2e8cbc8568a326d7f",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:55:50.044Z",
+      "observation": {
+        "run": {
+          "effective_status": "SETTLED",
+          "record": {
+            "attempts": 1,
+            "locked": {
+              "admitted_at": 1794268508,
+              "circuit_id": 0,
+              "deadline": 1794270308,
+              "generation": 0,
+              "id": 1,
+              "kind": "NORMAL",
+              "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            },
+            "outcome": "COMPONENT_FAULT",
+            "receipt": {
+              "assessed_at": 1794268530,
+              "attempt": 1,
+              "circuit_id": 0,
+              "effect": {
+                "closed": false,
+                "fault_counted": true,
+                "historical_only": false,
+                "opened": true
+              },
+              "input": {
+                "policy": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run": {
+                  "admitted_at": 1794268508,
+                  "circuit_id": 0,
+                  "deadline": 1794270308,
+                  "generation": 0,
+                  "id": 1,
+                  "kind": "NORMAL",
+                  "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+                  "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                  "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                },
+                "submitted_at": 1794268518
+              },
+              "inspection": {
+                "prompt_chars": 3389,
+                "prompt_sha256": "9447cd4f299c7289082ffca9f7028b3d745e361ec36b5639cc7cf58a686bcffa",
+                "prompt_truncated": false,
+                "prompt_utf8_bytes": 3389,
+                "semantic_complete": true
+              },
+              "maintenance": [],
+              "outcome": "COMPONENT_FAULT",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "run_hash": "046d1a247ba61227541bf4750d9df81df17f7d0973e0bdc5d012342a6334157a",
+              "run_id": 1,
+              "run_status": "SETTLED",
+              "schema": "faultcircuit-v1",
+              "state_after": {
+                "backoff_level": 1,
+                "created_at": 1794268286,
+                "fault_events": [
+                  {
+                    "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                    "run_id": 0,
+                    "settled_at": 1794268317
+                  },
+                  {
+                    "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                    "run_id": 1,
+                    "settled_at": 1794268530
+                  }
+                ],
+                "generation": 1,
+                "last_observed_at": 1794268530,
+                "normal_ids": [],
+                "open_until": 1794268560,
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "probe_id": -1,
+                "retired_at": 0,
+                "revision": 12,
+                "spec": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "state": "OPEN"
+              },
+              "state_before": {
+                "backoff_level": 0,
+                "created_at": 1794268286,
+                "fault_events": [
+                  {
+                    "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                    "run_id": 0,
+                    "settled_at": 1794268317
+                  }
+                ],
+                "generation": 0,
+                "last_observed_at": 1794268530,
+                "normal_ids": [
+                  1
+                ],
+                "open_until": 0,
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "probe_id": -1,
+                "retired_at": 0,
+                "revision": 11,
+                "spec": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "state": "CLOSED"
+              },
+              "terminal": true
+            },
+            "receipt_hash": "30e02a510b2aa4bca37e0030fec29943a3c87fc4b54efd25e5bf77fdff0e78cc",
+            "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+            "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+            "run_hash": "046d1a247ba61227541bf4750d9df81df17f7d0973e0bdc5d012342a6334157a",
+            "settled_at": 1794268530,
+            "status": "SETTLED",
+            "submitted_at": 1794268518
+          }
+        },
+        "circuit": {
+          "effective": {
+            "backoff_level": 1,
+            "created_at": 1794268286,
+            "fault_events": [
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 0,
+                "settled_at": 1794268317
+              },
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 1,
+                "settled_at": 1794268530
+              }
+            ],
+            "generation": 1,
+            "last_observed_at": 1794268550,
+            "normal_ids": [],
+            "open_until": 1794268560,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": -1,
+            "retired_at": 0,
+            "revision": 13,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "OPEN"
+          },
+          "normal_admission_allowed": false,
+          "pending_expiries": [],
+          "probe_admission_allowed": false,
+          "record": {
+            "backoff_level": 1,
+            "created_at": 1794268286,
+            "fault_events": [
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 0,
+                "settled_at": 1794268317
+              },
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 1,
+                "settled_at": 1794268530
+              }
+            ],
+            "generation": 1,
+            "last_observed_at": 1794268530,
+            "normal_ids": [],
+            "open_until": 1794268560,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": -1,
+            "retired_at": 0,
+            "revision": 12,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "OPEN"
+          }
+        }
+      }
+    },
+    {
+      "stage": "probe-admit",
+      "method": "admit_probe",
+      "operationHash": "068071ad6353f2ff107ef00f6ee046dc9e473d12dd534caf5a049ae07c13c227",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0x8423db1c7fc161cbb7a44fc7254fdd188fa192cc5d54919df28f8e431bad6f3c",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0x8423db1c7fc161cbb7a44fc7254fdd188fa192cc5d54919df28f8e431bad6f3c",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:56:14.636Z",
+      "observation": {
+        "circuit": {
+          "effective": {
+            "backoff_level": 1,
+            "created_at": 1794268286,
+            "fault_events": [
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 0,
+                "settled_at": 1794268317
+              },
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 1,
+                "settled_at": 1794268530
+              }
+            ],
+            "generation": 1,
+            "last_observed_at": 1794268572,
+            "normal_ids": [],
+            "open_until": 1794268560,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": 2,
+            "retired_at": 0,
+            "revision": 15,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "HALF_OPEN"
+          },
+          "normal_admission_allowed": false,
+          "pending_expiries": [],
+          "probe_admission_allowed": false,
+          "record": {
+            "backoff_level": 1,
+            "created_at": 1794268286,
+            "fault_events": [
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 0,
+                "settled_at": 1794268317
+              },
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 1,
+                "settled_at": 1794268530
+              }
+            ],
+            "generation": 1,
+            "last_observed_at": 1794268563,
+            "normal_ids": [],
+            "open_until": 1794268560,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": 2,
+            "retired_at": 0,
+            "revision": 14,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "HALF_OPEN"
+          }
+        },
+        "run": {
+          "effective_status": "ADMITTED",
+          "record": {
+            "attempts": 0,
+            "locked": {
+              "admitted_at": 1794268563,
+              "circuit_id": 0,
+              "deadline": 1794270363,
+              "generation": 1,
+              "id": 2,
+              "kind": "PROBE",
+              "operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            },
+            "outcome": "",
+            "receipt": null,
+            "receipt_hash": "",
+            "report": null,
+            "report_hash": "",
+            "run_hash": "4ad34689fde6cb9f23c1a5f6fe7e329e296d85e7c83fce7ae3811499bc98a495",
+            "settled_at": 0,
+            "status": "ADMITTED",
+            "submitted_at": 0
+          }
+        }
+      }
+    },
+    {
+      "stage": "probe-report",
+      "method": "submit_report",
+      "operationHash": "5a9c061b8150203faa0c0c5853a8468bdf8ce7be69c723f7b32a5353f179e0f3",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0xd963e85d9912f6f3eb676439dbfaa71f5be3a3a6f172b497a708a844ad130b2d",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0xd963e85d9912f6f3eb676439dbfaa71f5be3a3a6f172b497a708a844ad130b2d",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:56:24.115Z",
+      "observation": {
+        "effective_status": "REPORTED",
+        "record": {
+          "attempts": 0,
+          "locked": {
+            "admitted_at": 1794268563,
+            "circuit_id": 0,
+            "deadline": 1794270363,
+            "generation": 1,
+            "id": 2,
+            "kind": "PROBE",
+            "operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          },
+          "outcome": "",
+          "receipt": null,
+          "receipt_hash": "",
+          "report": "This is a declared synthetic smoke-test report. The exact frozen valid CSV fixture was parsed by the CSV worker. The output header was name and exactly two expected data rows were produced. Every fixed smoke-test check matched; no internal parser error occurred.",
+          "report_hash": "7bae568faa66faa0d6f85902cb98010756b8a8b571596dbaea58cb8ba21b73fc",
+          "run_hash": "4ad34689fde6cb9f23c1a5f6fe7e329e296d85e7c83fce7ae3811499bc98a495",
+          "settled_at": 0,
+          "status": "REPORTED",
+          "submitted_at": 1794268576
+        }
+      }
+    },
+    {
+      "stage": "probe-assess",
+      "method": "assess_run",
+      "operationHash": "9316b4672eb5c1fba0ccf28d719d575dcec7b5e20f49903eab4e2077558a47ed",
+      "contractAddress": "0x9E2A84A68A93d6E1C8944e2a009fCaaaDdC762C8",
+      "sourceSha256": "d747f66c1bf4bb04e1369a3ec950396fc3021c368fdc9f85c9c3170da11845e9",
+      "txHash": "0xa10e0ba92ae02eb059dc277e89a7fc54c283b78e6431efa92b76adb50f4c635a",
+      "txUrl": "https://explorer-studio-dev.genlayer.com/tx/0xa10e0ba92ae02eb059dc277e89a7fc54c283b78e6431efa92b76adb50f4c635a",
+      "successful": true,
+      "assertionsPassed": true,
+      "observedAt": "2026-11-09T23:56:41.451Z",
+      "observation": {
+        "run": {
+          "effective_status": "SETTLED",
+          "record": {
+            "attempts": 1,
+            "locked": {
+              "admitted_at": 1794268563,
+              "circuit_id": 0,
+              "deadline": 1794270363,
+              "generation": 1,
+              "id": 2,
+              "kind": "PROBE",
+              "operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            },
+            "outcome": "PASS",
+            "receipt": {
+              "assessed_at": 1794268585,
+              "attempt": 1,
+              "circuit_id": 0,
+              "effect": {
+                "closed": true,
+                "fault_counted": false,
+                "historical_only": false,
+                "opened": false
+              },
+              "input": {
+                "policy": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "report": "This is a declared synthetic smoke-test report. The exact frozen valid CSV fixture was parsed by the CSV worker. The output header was name and exactly two expected data rows were produced. Every fixed smoke-test check matched; no internal parser error occurred.",
+                "report_hash": "7bae568faa66faa0d6f85902cb98010756b8a8b571596dbaea58cb8ba21b73fc",
+                "run": {
+                  "admitted_at": 1794268563,
+                  "circuit_id": 0,
+                  "deadline": 1794270363,
+                  "generation": 1,
+                  "id": 2,
+                  "kind": "PROBE",
+                  "operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                  "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                },
+                "submitted_at": 1794268576
+              },
+              "inspection": {
+                "prompt_chars": 3370,
+                "prompt_sha256": "0d8192847957b75f5b23878ff96e3d8a15de39ec916a682e64ec30a7e7a26cae",
+                "prompt_truncated": false,
+                "prompt_utf8_bytes": 3370,
+                "semantic_complete": true
+              },
+              "maintenance": [],
+              "outcome": "PASS",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "run_hash": "4ad34689fde6cb9f23c1a5f6fe7e329e296d85e7c83fce7ae3811499bc98a495",
+              "run_id": 2,
+              "run_status": "SETTLED",
+              "schema": "faultcircuit-v1",
+              "state_after": {
+                "backoff_level": 0,
+                "created_at": 1794268286,
+                "fault_events": [],
+                "generation": 2,
+                "last_observed_at": 1794268585,
+                "normal_ids": [],
+                "open_until": 0,
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "probe_id": -1,
+                "retired_at": 0,
+                "revision": 18,
+                "spec": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "state": "CLOSED"
+              },
+              "state_before": {
+                "backoff_level": 1,
+                "created_at": 1794268286,
+                "fault_events": [
+                  {
+                    "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                    "run_id": 0,
+                    "settled_at": 1794268317
+                  },
+                  {
+                    "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                    "run_id": 1,
+                    "settled_at": 1794268530
+                  }
+                ],
+                "generation": 1,
+                "last_observed_at": 1794268585,
+                "normal_ids": [],
+                "open_until": 1794268560,
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "probe_id": 2,
+                "retired_at": 0,
+                "revision": 17,
+                "spec": {
+                  "base_cooldown_seconds": 30,
+                  "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                  "component": "CSV worker",
+                  "id": 0,
+                  "max_cooldown_seconds": 240,
+                  "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                  "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                  "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                  "reporters": [
+                    "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                  ],
+                  "run_timeout_seconds": 1800,
+                  "threshold": 2,
+                  "title": "Synthetic CSV worker circuit",
+                  "window_seconds": 600
+                },
+                "state": "HALF_OPEN"
+              },
+              "terminal": true
+            },
+            "receipt_hash": "5e323f41df3821be22baf14450fc95bc0c1f3f207acf4aead61580658d73436e",
+            "report": "This is a declared synthetic smoke-test report. The exact frozen valid CSV fixture was parsed by the CSV worker. The output header was name and exactly two expected data rows were produced. Every fixed smoke-test check matched; no internal parser error occurred.",
+            "report_hash": "7bae568faa66faa0d6f85902cb98010756b8a8b571596dbaea58cb8ba21b73fc",
+            "run_hash": "4ad34689fde6cb9f23c1a5f6fe7e329e296d85e7c83fce7ae3811499bc98a495",
+            "settled_at": 1794268585,
+            "status": "SETTLED",
+            "submitted_at": 1794268576
+          }
+        },
+        "circuit": {
+          "effective": {
+            "backoff_level": 0,
+            "created_at": 1794268286,
+            "fault_events": [],
+            "generation": 2,
+            "last_observed_at": 1794268601,
+            "normal_ids": [],
+            "open_until": 0,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": -1,
+            "retired_at": 0,
+            "revision": 19,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "CLOSED"
+          },
+          "normal_admission_allowed": true,
+          "pending_expiries": [],
+          "probe_admission_allowed": false,
+          "record": {
+            "backoff_level": 0,
+            "created_at": 1794268286,
+            "fault_events": [],
+            "generation": 2,
+            "last_observed_at": 1794268585,
+            "normal_ids": [],
+            "open_until": 0,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": -1,
+            "retired_at": 0,
+            "revision": 18,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "CLOSED"
+          }
+        }
+      }
+    }
+  ],
+  "finalStats": {
+    "admitted_runs": 3,
+    "circuits": 1,
+    "classified_runs": 3,
+    "contract_version": "1.0.0",
+    "max_attempts": 3,
+    "max_normal_runs": 6,
+    "max_prompt_chars": 18000,
+    "max_prompt_utf8_bytes": 24000,
+    "max_reporters": 8,
+    "receipt_schema": "faultcircuit-v1"
+  },
+  "verification": "Two certified internal component faults open the circuit; real cooldown permits one frozen recovery probe; certified PASS closes and clears the fault window.",
+  "circuitId": 0,
+  "normalRunIds": [
+    0,
+    1
+  ],
+  "probeRunId": 2,
+  "initial": {
+    "effective": {
+      "backoff_level": 0,
+      "created_at": 1794268286,
+      "fault_events": [],
+      "generation": 0,
+      "last_observed_at": 1794268294,
+      "normal_ids": [],
+      "open_until": 0,
+      "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+      "probe_id": -1,
+      "retired_at": 0,
+      "revision": 1,
+      "spec": {
+        "base_cooldown_seconds": 30,
+        "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+        "component": "CSV worker",
+        "id": 0,
+        "max_cooldown_seconds": 240,
+        "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+        "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+        "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+        "reporters": [
+          "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+        ],
+        "run_timeout_seconds": 1800,
+        "threshold": 2,
+        "title": "Synthetic CSV worker circuit",
+        "window_seconds": 600
+      },
+      "state": "CLOSED"
+    },
+    "normal_admission_allowed": true,
+    "pending_expiries": [],
+    "probe_admission_allowed": false,
+    "record": {
+      "backoff_level": 0,
+      "created_at": 1794268286,
+      "fault_events": [],
+      "generation": 0,
+      "last_observed_at": 1794268286,
+      "normal_ids": [],
+      "open_until": 0,
+      "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+      "probe_id": -1,
+      "retired_at": 0,
+      "revision": 0,
+      "spec": {
+        "base_cooldown_seconds": 30,
+        "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+        "component": "CSV worker",
+        "id": 0,
+        "max_cooldown_seconds": 240,
+        "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+        "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+        "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+        "reporters": [
+          "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+        ],
+        "run_timeout_seconds": 1800,
+        "threshold": 2,
+        "title": "Synthetic CSV worker circuit",
+        "window_seconds": 600
+      },
+      "state": "CLOSED"
+    }
+  },
+  "faultSettlements": [
+    {
+      "run": {
+        "effective_status": "SETTLED",
+        "record": {
+          "attempts": 1,
+          "locked": {
+            "admitted_at": 1794268296,
+            "circuit_id": 0,
+            "deadline": 1794270096,
+            "generation": 0,
+            "id": 0,
+            "kind": "NORMAL",
+            "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          },
+          "outcome": "COMPONENT_FAULT",
+          "receipt": {
+            "assessed_at": 1794268317,
+            "attempt": 1,
+            "circuit_id": 0,
+            "effect": {
+              "closed": false,
+              "fault_counted": true,
+              "historical_only": false,
+              "opened": false
+            },
+            "input": {
+              "policy": {
+                "base_cooldown_seconds": 30,
+                "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                "component": "CSV worker",
+                "id": 0,
+                "max_cooldown_seconds": 240,
+                "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                "reporters": [
+                  "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                ],
+                "run_timeout_seconds": 1800,
+                "threshold": 2,
+                "title": "Synthetic CSV worker circuit",
+                "window_seconds": 600
+              },
+              "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run": {
+                "admitted_at": 1794268296,
+                "circuit_id": 0,
+                "deadline": 1794270096,
+                "generation": 0,
+                "id": 0,
+                "kind": "NORMAL",
+                "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              },
+              "submitted_at": 1794268304
+            },
+            "inspection": {
+              "prompt_chars": 3389,
+              "prompt_sha256": "8a1a27fa78f6ac8d04e2979c803f308fefa1c8f3deaea05908d7c4f1fde996f4",
+              "prompt_truncated": false,
+              "prompt_utf8_bytes": 3389,
+              "semantic_complete": true
+            },
+            "maintenance": [],
+            "outcome": "COMPONENT_FAULT",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "run_hash": "69c19305d01c7193c6505bde9d621d05baac8922c13f14562ad4bba1419253a9",
+            "run_id": 0,
+            "run_status": "SETTLED",
+            "schema": "faultcircuit-v1",
+            "state_after": {
+              "backoff_level": 0,
+              "created_at": 1794268286,
+              "fault_events": [
+                {
+                  "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                  "run_id": 0,
+                  "settled_at": 1794268317
+                }
+              ],
+              "generation": 0,
+              "last_observed_at": 1794268317,
+              "normal_ids": [],
+              "open_until": 0,
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "probe_id": -1,
+              "retired_at": 0,
+              "revision": 6,
+              "spec": {
+                "base_cooldown_seconds": 30,
+                "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                "component": "CSV worker",
+                "id": 0,
+                "max_cooldown_seconds": 240,
+                "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                "reporters": [
+                  "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                ],
+                "run_timeout_seconds": 1800,
+                "threshold": 2,
+                "title": "Synthetic CSV worker circuit",
+                "window_seconds": 600
+              },
+              "state": "CLOSED"
+            },
+            "state_before": {
+              "backoff_level": 0,
+              "created_at": 1794268286,
+              "fault_events": [],
+              "generation": 0,
+              "last_observed_at": 1794268317,
+              "normal_ids": [
+                0
+              ],
+              "open_until": 0,
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "probe_id": -1,
+              "retired_at": 0,
+              "revision": 5,
+              "spec": {
+                "base_cooldown_seconds": 30,
+                "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                "component": "CSV worker",
+                "id": 0,
+                "max_cooldown_seconds": 240,
+                "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                "reporters": [
+                  "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                ],
+                "run_timeout_seconds": 1800,
+                "threshold": 2,
+                "title": "Synthetic CSV worker circuit",
+                "window_seconds": 600
+              },
+              "state": "CLOSED"
+            },
+            "terminal": true
+          },
+          "receipt_hash": "1ae4e7721e1c2d1c49cf3b7ef81aa21ee2fb6d2ba6d81153ef903a6bde25f56e",
+          "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+          "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+          "run_hash": "69c19305d01c7193c6505bde9d621d05baac8922c13f14562ad4bba1419253a9",
+          "settled_at": 1794268317,
+          "status": "SETTLED",
+          "submitted_at": 1794268304
+        }
+      },
+      "circuit": {
+        "effective": {
+          "backoff_level": 0,
+          "created_at": 1794268286,
+          "fault_events": [
+            {
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run_id": 0,
+              "settled_at": 1794268317
+            }
+          ],
+          "generation": 0,
+          "last_observed_at": 1794268507,
+          "normal_ids": [],
+          "open_until": 0,
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "probe_id": -1,
+          "retired_at": 0,
+          "revision": 7,
+          "spec": {
+            "base_cooldown_seconds": 30,
+            "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+            "component": "CSV worker",
+            "id": 0,
+            "max_cooldown_seconds": 240,
+            "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+            "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+            "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+            "reporters": [
+              "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            ],
+            "run_timeout_seconds": 1800,
+            "threshold": 2,
+            "title": "Synthetic CSV worker circuit",
+            "window_seconds": 600
+          },
+          "state": "CLOSED"
+        },
+        "normal_admission_allowed": true,
+        "pending_expiries": [],
+        "probe_admission_allowed": false,
+        "record": {
+          "backoff_level": 0,
+          "created_at": 1794268286,
+          "fault_events": [
+            {
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run_id": 0,
+              "settled_at": 1794268317
+            }
+          ],
+          "generation": 0,
+          "last_observed_at": 1794268317,
+          "normal_ids": [],
+          "open_until": 0,
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "probe_id": -1,
+          "retired_at": 0,
+          "revision": 6,
+          "spec": {
+            "base_cooldown_seconds": 30,
+            "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+            "component": "CSV worker",
+            "id": 0,
+            "max_cooldown_seconds": 240,
+            "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+            "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+            "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+            "reporters": [
+              "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            ],
+            "run_timeout_seconds": 1800,
+            "threshold": 2,
+            "title": "Synthetic CSV worker circuit",
+            "window_seconds": 600
+          },
+          "state": "CLOSED"
+        }
+      }
+    },
+    {
+      "run": {
+        "effective_status": "SETTLED",
+        "record": {
+          "attempts": 1,
+          "locked": {
+            "admitted_at": 1794268508,
+            "circuit_id": 0,
+            "deadline": 1794270308,
+            "generation": 0,
+            "id": 1,
+            "kind": "NORMAL",
+            "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          },
+          "outcome": "COMPONENT_FAULT",
+          "receipt": {
+            "assessed_at": 1794268530,
+            "attempt": 1,
+            "circuit_id": 0,
+            "effect": {
+              "closed": false,
+              "fault_counted": true,
+              "historical_only": false,
+              "opened": true
+            },
+            "input": {
+              "policy": {
+                "base_cooldown_seconds": 30,
+                "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                "component": "CSV worker",
+                "id": 0,
+                "max_cooldown_seconds": 240,
+                "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                "reporters": [
+                  "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                ],
+                "run_timeout_seconds": 1800,
+                "threshold": 2,
+                "title": "Synthetic CSV worker circuit",
+                "window_seconds": 600
+              },
+              "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run": {
+                "admitted_at": 1794268508,
+                "circuit_id": 0,
+                "deadline": 1794270308,
+                "generation": 0,
+                "id": 1,
+                "kind": "NORMAL",
+                "operation": "Parse the valid synthetic CSV fixture and produce header name with two output rows.",
+                "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+                "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              },
+              "submitted_at": 1794268518
+            },
+            "inspection": {
+              "prompt_chars": 3389,
+              "prompt_sha256": "9447cd4f299c7289082ffca9f7028b3d745e361ec36b5639cc7cf58a686bcffa",
+              "prompt_truncated": false,
+              "prompt_utf8_bytes": 3389,
+              "semantic_complete": true
+            },
+            "maintenance": [],
+            "outcome": "COMPONENT_FAULT",
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "run_hash": "046d1a247ba61227541bf4750d9df81df17f7d0973e0bdc5d012342a6334157a",
+            "run_id": 1,
+            "run_status": "SETTLED",
+            "schema": "faultcircuit-v1",
+            "state_after": {
+              "backoff_level": 1,
+              "created_at": 1794268286,
+              "fault_events": [
+                {
+                  "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                  "run_id": 0,
+                  "settled_at": 1794268317
+                },
+                {
+                  "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                  "run_id": 1,
+                  "settled_at": 1794268530
+                }
+              ],
+              "generation": 1,
+              "last_observed_at": 1794268530,
+              "normal_ids": [],
+              "open_until": 1794268560,
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "probe_id": -1,
+              "retired_at": 0,
+              "revision": 12,
+              "spec": {
+                "base_cooldown_seconds": 30,
+                "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                "component": "CSV worker",
+                "id": 0,
+                "max_cooldown_seconds": 240,
+                "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                "reporters": [
+                  "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                ],
+                "run_timeout_seconds": 1800,
+                "threshold": 2,
+                "title": "Synthetic CSV worker circuit",
+                "window_seconds": 600
+              },
+              "state": "OPEN"
+            },
+            "state_before": {
+              "backoff_level": 0,
+              "created_at": 1794268286,
+              "fault_events": [
+                {
+                  "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                  "run_id": 0,
+                  "settled_at": 1794268317
+                }
+              ],
+              "generation": 0,
+              "last_observed_at": 1794268530,
+              "normal_ids": [
+                1
+              ],
+              "open_until": 0,
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "probe_id": -1,
+              "retired_at": 0,
+              "revision": 11,
+              "spec": {
+                "base_cooldown_seconds": 30,
+                "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+                "component": "CSV worker",
+                "id": 0,
+                "max_cooldown_seconds": 240,
+                "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+                "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+                "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+                "reporters": [
+                  "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+                ],
+                "run_timeout_seconds": 1800,
+                "threshold": 2,
+                "title": "Synthetic CSV worker circuit",
+                "window_seconds": 600
+              },
+              "state": "CLOSED"
+            },
+            "terminal": true
+          },
+          "receipt_hash": "30e02a510b2aa4bca37e0030fec29943a3c87fc4b54efd25e5bf77fdff0e78cc",
+          "report": "This is a declared synthetic run report. The CSV worker received the specified valid fixture. Its internal parser raised InternalParserFailure before producing any output rows. The expected header name and two rows were not produced. No caller validation error or external network dependency caused this failure.",
+          "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+          "run_hash": "046d1a247ba61227541bf4750d9df81df17f7d0973e0bdc5d012342a6334157a",
+          "settled_at": 1794268530,
+          "status": "SETTLED",
+          "submitted_at": 1794268518
+        }
+      },
+      "circuit": {
+        "effective": {
+          "backoff_level": 1,
+          "created_at": 1794268286,
+          "fault_events": [
+            {
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run_id": 0,
+              "settled_at": 1794268317
+            },
+            {
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run_id": 1,
+              "settled_at": 1794268530
+            }
+          ],
+          "generation": 1,
+          "last_observed_at": 1794268550,
+          "normal_ids": [],
+          "open_until": 1794268560,
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "probe_id": -1,
+          "retired_at": 0,
+          "revision": 13,
+          "spec": {
+            "base_cooldown_seconds": 30,
+            "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+            "component": "CSV worker",
+            "id": 0,
+            "max_cooldown_seconds": 240,
+            "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+            "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+            "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+            "reporters": [
+              "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            ],
+            "run_timeout_seconds": 1800,
+            "threshold": 2,
+            "title": "Synthetic CSV worker circuit",
+            "window_seconds": 600
+          },
+          "state": "OPEN"
+        },
+        "normal_admission_allowed": false,
+        "pending_expiries": [],
+        "probe_admission_allowed": false,
+        "record": {
+          "backoff_level": 1,
+          "created_at": 1794268286,
+          "fault_events": [
+            {
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run_id": 0,
+              "settled_at": 1794268317
+            },
+            {
+              "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+              "run_id": 1,
+              "settled_at": 1794268530
+            }
+          ],
+          "generation": 1,
+          "last_observed_at": 1794268530,
+          "normal_ids": [],
+          "open_until": 1794268560,
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "probe_id": -1,
+          "retired_at": 0,
+          "revision": 12,
+          "spec": {
+            "base_cooldown_seconds": 30,
+            "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+            "component": "CSV worker",
+            "id": 0,
+            "max_cooldown_seconds": 240,
+            "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+            "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+            "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+            "reporters": [
+              "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            ],
+            "run_timeout_seconds": 1800,
+            "threshold": 2,
+            "title": "Synthetic CSV worker circuit",
+            "window_seconds": 600
+          },
+          "state": "OPEN"
+        }
+      }
+    }
+  ],
+  "opened": {
+    "backoff_level": 1,
+    "created_at": 1794268286,
+    "fault_events": [
+      {
+        "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+        "run_id": 0,
+        "settled_at": 1794268317
+      },
+      {
+        "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+        "run_id": 1,
+        "settled_at": 1794268530
+      }
+    ],
+    "generation": 1,
+    "last_observed_at": 1794268530,
+    "normal_ids": [],
+    "open_until": 1794268560,
+    "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+    "probe_id": -1,
+    "retired_at": 0,
+    "revision": 12,
+    "spec": {
+      "base_cooldown_seconds": 30,
+      "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+      "component": "CSV worker",
+      "id": 0,
+      "max_cooldown_seconds": 240,
+      "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+      "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+      "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+      "reporters": [
+        "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+      ],
+      "run_timeout_seconds": 1800,
+      "threshold": 2,
+      "title": "Synthetic CSV worker circuit",
+      "window_seconds": 600
+    },
+    "state": "OPEN"
+  },
+  "halfOpen": {
+    "circuit": {
+      "effective": {
+        "backoff_level": 1,
+        "created_at": 1794268286,
+        "fault_events": [
+          {
+            "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+            "run_id": 0,
+            "settled_at": 1794268317
+          },
+          {
+            "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+            "run_id": 1,
+            "settled_at": 1794268530
+          }
+        ],
+        "generation": 1,
+        "last_observed_at": 1794268572,
+        "normal_ids": [],
+        "open_until": 1794268560,
+        "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+        "probe_id": 2,
+        "retired_at": 0,
+        "revision": 15,
+        "spec": {
+          "base_cooldown_seconds": 30,
+          "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+          "component": "CSV worker",
+          "id": 0,
+          "max_cooldown_seconds": 240,
+          "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+          "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+          "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+          "reporters": [
+            "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          ],
+          "run_timeout_seconds": 1800,
+          "threshold": 2,
+          "title": "Synthetic CSV worker circuit",
+          "window_seconds": 600
+        },
+        "state": "HALF_OPEN"
+      },
+      "normal_admission_allowed": false,
+      "pending_expiries": [],
+      "probe_admission_allowed": false,
+      "record": {
+        "backoff_level": 1,
+        "created_at": 1794268286,
+        "fault_events": [
+          {
+            "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+            "run_id": 0,
+            "settled_at": 1794268317
+          },
+          {
+            "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+            "run_id": 1,
+            "settled_at": 1794268530
+          }
+        ],
+        "generation": 1,
+        "last_observed_at": 1794268563,
+        "normal_ids": [],
+        "open_until": 1794268560,
+        "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+        "probe_id": 2,
+        "retired_at": 0,
+        "revision": 14,
+        "spec": {
+          "base_cooldown_seconds": 30,
+          "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+          "component": "CSV worker",
+          "id": 0,
+          "max_cooldown_seconds": 240,
+          "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+          "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+          "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+          "reporters": [
+            "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          ],
+          "run_timeout_seconds": 1800,
+          "threshold": 2,
+          "title": "Synthetic CSV worker circuit",
+          "window_seconds": 600
+        },
+        "state": "HALF_OPEN"
+      }
+    },
+    "run": {
+      "effective_status": "ADMITTED",
+      "record": {
+        "attempts": 0,
+        "locked": {
+          "admitted_at": 1794268563,
+          "circuit_id": 0,
+          "deadline": 1794270363,
+          "generation": 1,
+          "id": 2,
+          "kind": "PROBE",
+          "operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+        },
+        "outcome": "",
+        "receipt": null,
+        "receipt_hash": "",
+        "report": null,
+        "report_hash": "",
+        "run_hash": "4ad34689fde6cb9f23c1a5f6fe7e329e296d85e7c83fce7ae3811499bc98a495",
+        "settled_at": 0,
+        "status": "ADMITTED",
+        "submitted_at": 0
+      }
+    }
+  },
+  "recovered": {
+    "run": {
+      "effective_status": "SETTLED",
+      "record": {
+        "attempts": 1,
+        "locked": {
+          "admitted_at": 1794268563,
+          "circuit_id": 0,
+          "deadline": 1794270363,
+          "generation": 1,
+          "id": 2,
+          "kind": "PROBE",
+          "operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+        },
+        "outcome": "PASS",
+        "receipt": {
+          "assessed_at": 1794268585,
+          "attempt": 1,
+          "circuit_id": 0,
+          "effect": {
+            "closed": true,
+            "fault_counted": false,
+            "historical_only": false,
+            "opened": false
+          },
+          "input": {
+            "policy": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "report": "This is a declared synthetic smoke-test report. The exact frozen valid CSV fixture was parsed by the CSV worker. The output header was name and exactly two expected data rows were produced. Every fixed smoke-test check matched; no internal parser error occurred.",
+            "report_hash": "7bae568faa66faa0d6f85902cb98010756b8a8b571596dbaea58cb8ba21b73fc",
+            "run": {
+              "admitted_at": 1794268563,
+              "circuit_id": 0,
+              "deadline": 1794270363,
+              "generation": 1,
+              "id": 2,
+              "kind": "PROBE",
+              "operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+              "reporter": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+            },
+            "submitted_at": 1794268576
+          },
+          "inspection": {
+            "prompt_chars": 3370,
+            "prompt_sha256": "0d8192847957b75f5b23878ff96e3d8a15de39ec916a682e64ec30a7e7a26cae",
+            "prompt_truncated": false,
+            "prompt_utf8_bytes": 3370,
+            "semantic_complete": true
+          },
+          "maintenance": [],
+          "outcome": "PASS",
+          "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+          "run_hash": "4ad34689fde6cb9f23c1a5f6fe7e329e296d85e7c83fce7ae3811499bc98a495",
+          "run_id": 2,
+          "run_status": "SETTLED",
+          "schema": "faultcircuit-v1",
+          "state_after": {
+            "backoff_level": 0,
+            "created_at": 1794268286,
+            "fault_events": [],
+            "generation": 2,
+            "last_observed_at": 1794268585,
+            "normal_ids": [],
+            "open_until": 0,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": -1,
+            "retired_at": 0,
+            "revision": 18,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "CLOSED"
+          },
+          "state_before": {
+            "backoff_level": 1,
+            "created_at": 1794268286,
+            "fault_events": [
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 0,
+                "settled_at": 1794268317
+              },
+              {
+                "report_hash": "531831ef30aa2167309a85cf6a8dbe1bf7967e1250f4eda61e1a136a857ffec7",
+                "run_id": 1,
+                "settled_at": 1794268530
+              }
+            ],
+            "generation": 1,
+            "last_observed_at": 1794268585,
+            "normal_ids": [],
+            "open_until": 1794268560,
+            "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+            "probe_id": 2,
+            "retired_at": 0,
+            "revision": 17,
+            "spec": {
+              "base_cooldown_seconds": 30,
+              "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+              "component": "CSV worker",
+              "id": 0,
+              "max_cooldown_seconds": 240,
+              "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+              "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+              "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+              "reporters": [
+                "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+              ],
+              "run_timeout_seconds": 1800,
+              "threshold": 2,
+              "title": "Synthetic CSV worker circuit",
+              "window_seconds": 600
+            },
+            "state": "HALF_OPEN"
+          },
+          "terminal": true
+        },
+        "receipt_hash": "5e323f41df3821be22baf14450fc95bc0c1f3f207acf4aead61580658d73436e",
+        "report": "This is a declared synthetic smoke-test report. The exact frozen valid CSV fixture was parsed by the CSV worker. The output header was name and exactly two expected data rows were produced. Every fixed smoke-test check matched; no internal parser error occurred.",
+        "report_hash": "7bae568faa66faa0d6f85902cb98010756b8a8b571596dbaea58cb8ba21b73fc",
+        "run_hash": "4ad34689fde6cb9f23c1a5f6fe7e329e296d85e7c83fce7ae3811499bc98a495",
+        "settled_at": 1794268585,
+        "status": "SETTLED",
+        "submitted_at": 1794268576
+      }
+    },
+    "circuit": {
+      "effective": {
+        "backoff_level": 0,
+        "created_at": 1794268286,
+        "fault_events": [],
+        "generation": 2,
+        "last_observed_at": 1794268601,
+        "normal_ids": [],
+        "open_until": 0,
+        "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+        "probe_id": -1,
+        "retired_at": 0,
+        "revision": 19,
+        "spec": {
+          "base_cooldown_seconds": 30,
+          "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+          "component": "CSV worker",
+          "id": 0,
+          "max_cooldown_seconds": 240,
+          "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+          "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+          "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+          "reporters": [
+            "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          ],
+          "run_timeout_seconds": 1800,
+          "threshold": 2,
+          "title": "Synthetic CSV worker circuit",
+          "window_seconds": 600
+        },
+        "state": "CLOSED"
+      },
+      "normal_admission_allowed": true,
+      "pending_expiries": [],
+      "probe_admission_allowed": false,
+      "record": {
+        "backoff_level": 0,
+        "created_at": 1794268286,
+        "fault_events": [],
+        "generation": 2,
+        "last_observed_at": 1794268585,
+        "normal_ids": [],
+        "open_until": 0,
+        "policy_hash": "471cb05cb7e6066db748c7a67a81f06e35ba884af326db6538e360ed2c7a76e3",
+        "probe_id": -1,
+        "retired_at": 0,
+        "revision": 18,
+        "spec": {
+          "base_cooldown_seconds": 30,
+          "classification_policy": "PASS requires the report to show the exact admitted parse operation completed with header name and two output rows. COMPONENT_FAULT requires an explicit internal CSV worker parser failure. Caller input errors or external network failures alone are uncertain.",
+          "component": "CSV worker",
+          "id": 0,
+          "max_cooldown_seconds": 240,
+          "owner": "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5",
+          "probe_operation": "Parse the fixed valid CSV smoke-test fixture and verify header name, two output rows, and no internal parser error.",
+          "purpose": "Coordinate synthetic CSV worker runs and recover through a fixed smoke test.",
+          "reporters": [
+            "0x20e5812253bbf6abfbbe3edbb13008ab7a3d68b5"
+          ],
+          "run_timeout_seconds": 1800,
+          "threshold": 2,
+          "title": "Synthetic CSV worker circuit",
+          "window_seconds": 600
+        },
+        "state": "CLOSED"
+      }
+    }
+  },
+  "completedAt": "2026-11-09T23:57:11.581Z"
+}

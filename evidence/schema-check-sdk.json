@@ -1,0 +1,195 @@
+{
+  "ctor": {
+    "params": [],
+    "kwparams": {}
+  },
+  "methods": {
+    "admit_probe": {
+      "params": [
+        [
+          "circuit_id",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "int",
+      "payable": false
+    },
+    "admit_run": {
+      "params": [
+        [
+          "circuit_id",
+          "int"
+        ],
+        [
+          "operation",
+          "string"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "int",
+      "payable": false
+    },
+    "assess_run": {
+      "params": [
+        [
+          "run_id",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "dict",
+      "payable": false
+    },
+    "cancel_run": {
+      "params": [
+        [
+          "run_id",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "null",
+      "payable": false
+    },
+    "expire_runs": {
+      "params": [
+        [
+          "circuit_id",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "int",
+      "payable": false
+    },
+    "get_attempt": {
+      "params": [
+        [
+          "run_id",
+          "int"
+        ],
+        [
+          "attempt",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": true,
+      "ret": "dict"
+    },
+    "get_circuit": {
+      "params": [
+        [
+          "circuit_id",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": true,
+      "ret": "dict"
+    },
+    "get_run": {
+      "params": [
+        [
+          "run_id",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": true,
+      "ret": "dict"
+    },
+    "get_stats": {
+      "params": [],
+      "kwparams": {},
+      "readonly": true,
+      "ret": "dict"
+    },
+    "open_circuit": {
+      "params": [
+        [
+          "title",
+          "string"
+        ],
+        [
+          "component",
+          "string"
+        ],
+        [
+          "purpose",
+          "string"
+        ],
+        [
+          "classification_policy",
+          "string"
+        ],
+        [
+          "probe_operation",
+          "string"
+        ],
+        [
+          "reporters_json",
+          "string"
+        ],
+        [
+          "threshold",
+          "int"
+        ],
+        [
+          "window_seconds",
+          "int"
+        ],
+        [
+          "base_cooldown_seconds",
+          "int"
+        ],
+        [
+          "max_cooldown_seconds",
+          "int"
+        ],
+        [
+          "run_timeout_seconds",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "int",
+      "payable": false
+    },
+    "retire_circuit": {
+      "params": [
+        [
+          "circuit_id",
+          "int"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "null",
+      "payable": false
+    },
+    "submit_report": {
+      "params": [
+        [
+          "run_id",
+          "int"
+        ],
+        [
+          "report_text",
+          "string"
+        ]
+      ],
+      "kwparams": {},
+      "readonly": false,
+      "ret": "null",
+      "payable": false
+    }
+  }
+}
