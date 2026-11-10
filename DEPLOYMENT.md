@@ -19,7 +19,8 @@ Network fees use test-network funds. Leader-only execution is disabled.
 | Immutable tracked source | [`FaultCircuit.py` at `01817a93863ec371290a0d4d107cdb44191c2ba3`](https://github.com/zakazaka95/FaultCircuit/blob/01817a93863ec371290a0d4d107cdb44191c2ba3/FaultCircuit.py) |
 | Local tests | 37 deterministic adversarial tests passed with controlled model/storage outputs |
 | Live semantic demo | Two certified COMPONENT_FAULT runs opened the circuit; one fixed certified PASS probe recovered it to CLOSED generation 2 |
-| Portal status | Submission not yet sent; no acceptance or points claimed |
+| Portal status | [Pending review](https://portal.genlayer.foundation/my-submissions?q=FaultCircuit); submitted November 10, 2026, with four evidence items; contribution date November 9, 2026 |
+| Portal submission ID | `1314c83f-0b88-4aad-a8f5-ffc01d84d163`; no acceptance or points claimed |
 
 The source pins
 `py-genlayer:babwp9t37jw9g4j2bccgn14g6x7x9s1f7dsmh7emvz735pz4zxa0`.
